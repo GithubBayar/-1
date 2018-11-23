@@ -1,4 +1,4 @@
-public function actionIndex()
+public function actionIndex()wfqaerff
     {
         $login = new LoginForm();
         if(isset($_POST['LoginForm'])){
